@@ -1,0 +1,9 @@
+[09:55:00] INFO - Khoi dong he thong GreenTech thanh cong
+[09:56:15] INFO - Ket noi tram-cam-bien-01 on dinh
+[09:58:30] WARNING - Luong RAM su dung dat 85%
+[10:00:12] ERROR 404 - tram-cam-bien-27 khong phan hoi
+[10:00:30] INFO - Dang kiem tra lai duong truyen mang Ugreen
+[10:00:45] CRITICAL - mat ket noi may chu trung tam
+[10:01:03] TIMEOUT - tram-cam-bien-58 qua thoi gian cho phan hoi
+[10:02:10] INFO - Khoi phuc ket noi thanh cong cho tram-cam-bien-01
+[10:03:00] ERROR 500 - Loi xu ly du lieu tai node trung gian
